@@ -4,6 +4,8 @@ Welcome to [Davide Gerosa](www.davidegerosa.com)'s public core repositories!
 
 - [**precession**](dgerosa.github/precession):  Dynamics of spinning black-hole binaries with python
 
+- [**corecollapse**](dgerosa.github/corecollapse): Stellar collapse in scalar-tensor theories of gravity
+
 - [**filltex**](dgerosa.github/filltex): Automatic queries to ADS and INSPIRE databases to fill LaTex bibliography
 
 - [**surrkick**](dgerosa.github/surrkick): Black-hole kicks from numerical-relativity surrogate models
