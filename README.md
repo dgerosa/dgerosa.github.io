@@ -1,6 +1,6 @@
 # dgerosa.github.io
 
-Welcome to [Davide Gerosa](www.davidegerosa.com)'s public core repositories!
+Welcome to [Davide Gerosa](www.davidegerosa.com)'s public code repositories!
 
 - [**precession**](dgerosa.github/precession):  Dynamics of spinning black-hole binaries with python
 
