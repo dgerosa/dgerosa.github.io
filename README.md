@@ -14,5 +14,5 @@ Welcome to [Davide Gerosa](www.davidegerosa.com)'s public code repositories!
 
 - [**skywalker**](https://dgerosa.github.io/skywalker): Things I like in python
 
-- [**spops**](https://dgerosa.github.io/spops): Database of population synthesis simulations of spinning black-hole binaries
+- [**spops**](https://dgerosa.github.io/spops): Spinning black-hole binary POPulation Synthesis
 
