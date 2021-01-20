@@ -12,3 +12,5 @@ Welcome to [Davide Gerosa](www.davidegerosa.com)'s public code repositories!
 - [**spops**](https://dgerosa.github.io/spops): Spinning black-hole binary POPulation Synthesis
 - [**pdetclassifier**](https://github.com/dgerosa/pdetclassifier): Gravitational-wave selection effects using neural-network classifiers
 
+- [**generalizedchip**](https://github.com/dgerosa/generalizedchip): A generalized precession parameter to interpret gravitational-wave data
+
